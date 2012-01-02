@@ -10,12 +10,14 @@ $ gem install rails
 
 <! SLIDE commandline >
 
-$ rails new blogg -d postgresql
+$ rails new demo -d [postgresql|other-db]
 
 ... 
 
 Your bundle is complete! Use `bundle show [gemname]` to see where a bundled
 gem is installed
+
+.Go through directories
 
 <! SLIDE commandline >
 
@@ -34,14 +36,5 @@ $ git add .
 * We are using ActiveRecord
 * We are, currently, using TestUnit
 * We are not, currently, using Cucumber
-
-<! SLIDE bullets >
-
-# Dev environment
-
-* We are, of course, using Git
-* Bash/Zsh
-* Vim/Emacs/Textmate
-
 
 
