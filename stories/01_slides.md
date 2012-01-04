@@ -48,6 +48,6 @@ Feature: Add comment to task
 
 Feature: Link tasks
 
-  In order to order tasks that are dependent
+  In order to arrange tasks in dependent order
   As a user 
   I can link tasks to each other
